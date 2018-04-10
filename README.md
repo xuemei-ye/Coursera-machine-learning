@@ -36,4 +36,4 @@ Advice on building a machine learning system. And this involved both trying to u
 - error analysis and ceiling analysis. 
 
 This is a wonderful course! Thanks coursera and all the people worked for this course.\
-For more information: https://class.coursera.org/ml/lecture/preview
+For more information: https://class.coursera.org/ml/lecture/preview.
