@@ -25,7 +25,7 @@ When you have only unlabelled data x(i) Although Anomaly Detection can also use 
 
 ### Different aspects:
 - bias and variance
-- how regularization can help with some variance problems
+- regularization help with some variance problems
 
 Advice on building a machine learning system. And this involved both trying to understand what is it that makes a machine learning algorithm work or not work.
 
