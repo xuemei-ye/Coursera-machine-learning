@@ -1,6 +1,6 @@
-# Coursera's machine learning
+# Coursera's Machine Learning
 
-### The programming assignments from Coursera's Machine Learning course taught by Andrew Ng.
+#### The programming assignments from Coursera's Machine Learning course taught by Andrew Ng.
 
 ### Supervised learning algorithms：
 
@@ -29,7 +29,7 @@ When you have only unlabelled data x(i) Although Anomaly Detection can also use 
 
 Advice on building a machine learning system. And this involved both trying to understand what is it that makes a machine learning algorithm work or not work.
 
-### How to decide what to work on next and Debugging learning algorithms:
+### How to decide what to work on next && Debugging learning algorithms:
 - evaluation of learning algorithms, evaluation metrics like precision recall, F1 score.
 - practical aspects of evaluation like the training, cross-validation and test sets. 
 - diagnostics like learning curves.
