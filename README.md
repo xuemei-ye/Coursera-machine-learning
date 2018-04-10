@@ -35,5 +35,5 @@ Advice on building a machine learning system. And this involved both trying to u
 - diagnostics like learning curves.
 - error analysis and ceiling analysis. 
 
-This is a wonderful course! Thanks coursera and all the people worked for this course.\
+This is a wonderful course, thanks coursera and all the people worked for this course! \
 Read more: [Machine Learning](https://class.coursera.org/ml/lecture/preview)
