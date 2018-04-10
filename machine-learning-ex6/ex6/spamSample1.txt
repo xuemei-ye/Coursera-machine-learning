@@ -1,0 +1,33 @@
+Dear Author(s),
+
+Your paper was submitted successfully to IEEE CEC 2018 and assigned number
+E-18331. Please use this number in all your correspondence.  In case of any
+problem with your PDF file you will be notified and asked to resubmit a
+corrected file.
+
+Your submission was recorded as follows:
+
+  Title:       Which Mapping Rule in the Fireworks Algorithm is Better for Large Scale Optimization
+  Author(s):   Ye Xuemei, Li Junzhi, Xu Bo and Tan Ying
+  Affiliation(s): 
+    Institute of Automation, Chinese Academy of Sciences, China
+    Key Laboratory of Machine Perception (Ministry of Education), Department of Machine Intelligence, School of Electronics Engineering and Computer Science, Peking University, China
+    Institute of Automation, Chinese Academy of Sciences, China
+    Key Laboratory of Machine Perception (Ministry of Education), Department of Machine Intelligence, School of Electronics Engineering and Computer Science, Peking University, China
+  Email(s):    xuemei-ye@foxmail.com, ljz@pku.edu.cn, boxu@ia.ac.cn, ytan@pku.edu.cn
+  Preferred form of presentation: Oral
+  Main paper focus: Algorithmic
+
+  Abstract:
+Fireworks algorithm(FWA), which is proposed for global optimization of complex
+function, becomes a hot spot in optimization field recently, caused by its
+competitive performance. Boundary handling for FWA, which maps the out-of-
+bound sparks into feasible space, is critical for its convergence efficiency.
+However, random mapping rule, which is widely used for boundary handling,
+always caused computing resource waste, especially for high-dimensional
+optimization. In this paper, we propose three novel mapping rules to speed up
+large scale optimization of FWA. Meanwhile, to evaluate the effectiveness of
+the new rules, we compare them by representative nine benchmark functions on
+different dimensionality scale. Experimental results indicate that the mirror
+rule which we proposed, achieve superior performance for most optimization
+functions.
